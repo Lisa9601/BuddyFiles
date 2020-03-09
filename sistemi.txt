@@ -1,0 +1,46 @@
+Che cos'è un processo
+Immagine di un processo
+Cambio di modo e cambio di contesto
+Che cos'è un thread
+Ambiente
+Che cos'è il kernel
+Tipi di scheduling
+Scheduling FCFS
+Scheduling RR e RR virtuale
+Scheduling SPN e SRTN
+Scheduling HRRN
+Multi level feedback queue
+Scheduling Unix svr3 tradizionale
+Scheduling Unix svr4
+Scheduling Windows
+Assegnazione di processi alle CPU
+Load sharing e load balancing
+Affinità di processore
+Differenza fra stream e block I/O
+Canali e sessioni di I/O
+Metodo di accesso sequenziale
+Metodo di accesso sequenziale indicizzato
+Metodo di accesso diretto
+Allocazione file contigua
+Allocazione file a catena
+Allocazione file indicizzata (livelli multipli)
+Buffer cache a due o tre sezioni
+File system Unix
+File system Windows
+Access control list
+I/O scheduling
+Tipi di binding
+MMU
+Partizionamento statico
+Partizionamento dinamico
+Paginazione
+Segmentazione
+Memoria virtuale
+Algoritmo ottimo
+Algoritmo LRU
+Algoritmo FIFO
+Anomalia di belady
+Agoritmo dell'orologio NRU
+Resident set e Working set
+Memory menagement Unix
+Memory menagement Windows

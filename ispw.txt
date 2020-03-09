@@ -1,0 +1,60 @@
+Processo software
+Processo waterfall
+RUP
+UML
+Come scompone un processo UML?
+Ingegneria dei requisiti
+Use case diagram
+Activity diagram
+Cosa serve per parlare di OOP?
+Che cos'è una classe?
+Operazione, Metodo, Messaggio
+Dinamica procedurale e OO
+Class diagram
+Creazione e distruzione di oggetti in JAVA
+Generalizzazione
+Public, private, protected
+Principio di sostituibilità di Liskov
+Polimorfismo
+Metamorfosi
+Overriding e Overloading
+Binding
+Invoke static, special, virtual
+Interfacce
+Tipi di relazione nei class diagram
+RDD
+Creator & Information expert
+Low coupling & High coesion
+Controller & Legge di Demetra
+Boundary, control, entity
+Applicazione stand alone vs web app
+Pattern
+Factory method
+Abstract factory
+Singleton
+Adapter
+Decorator
+Façade
+Observer
+IO in Java
+Persistenza
+Thread
+Deamon e non deamon thread
+Synchronized, Lock
+Wait, Notify, Notify All
+Sequence diagram 
+Stati di state machine diagram
+Stati composti state machine
+Pattern state
+Try catch
+Exception
+Faiulure, Fault, Error
+V&V
+Ispezione V&V
+Testing
+JUnit
+Before/After & class
+Test Driven Development
+Sintassi astratta, concreta, semantica
+Metamodellazione
+Reflection 

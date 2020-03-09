@@ -1,0 +1,25 @@
+Che cos'è un sistema informativo? E quello informatico?
+Che cos'è una base di dati ed un DBMS?
+Modello ER
+Progettazione concettuale 
+Strategie di progettazione
+Ristrotturazione diagramma ER
+Modello relazionale
+Traduzione verso il modello logico
+Algebra relazionale
+Normalizzazione
+SQL 
+Operatori aggregati SQL
+Interrogazioni nidificate SQL
+Check e controllo dell'accesso
+Transazione ACID
+Gestore del buffer 
+Strutture per l'organizzazione dei file
+Gestore dell'affidabilità (log)
+Controllo della concorrenza (anomalie)
+Ripresa a freddo / caldo
+View serializzabilità
+Conflict serializzabilità
+Locking a due fasi (stretto)
+Deadklock
+Time stamp (multiversione)
