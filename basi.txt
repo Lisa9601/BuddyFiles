@@ -3,7 +3,7 @@ Che cos'è una base di dati ed un DBMS?
 Modello ER
 Progettazione concettuale 
 Strategie di progettazione
-Ristrotturazione diagramma ER
+Ristrutturazione diagramma ER
 Modello relazionale
 Traduzione verso il modello logico
 Algebra relazionale
